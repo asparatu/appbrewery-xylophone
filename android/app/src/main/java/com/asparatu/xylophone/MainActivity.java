@@ -1,4 +1,4 @@
-package co.appbrewery.xylophone;
+package com.asparatu.xylophone;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
